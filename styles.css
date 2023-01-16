@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.list li{
+	list-style-type:none;
+}
+li a{
+	text-decoration:none;
+}
+.list{
+	display:flex;
+	justify-content:space-evenly;
+}
